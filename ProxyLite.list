@@ -13,7 +13,10 @@ DOMAIN-SUFFIX,cangku.moe
 DOMAIN-KEYWORD,hxcy.top
 
 #nhentai
-#DOMAIN-KEYWORD,nhentai
+DOMAIN-KEYWORD,nhentai
+
+#exhentai
+DOMAIN-KEYWORD,exhentai
 
 #禁漫天堂
 DOMAIN-KEYWORD,jmcomic
