@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,e-hentai
 
 #exhentai
 DOMAIN-KEYWORD,exhentai
-DOMAIN-SUFFIX,*.*.hath.network
+DOMAIN-SUFFIX,*://*.hath.network/*
 
 #禁漫天堂
 DOMAIN-KEYWORD,jmcomic
